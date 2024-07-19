@@ -54,3 +54,5 @@ The code will print the best string found in each generation along with its fitn
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
